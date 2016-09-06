@@ -1,4 +1,4 @@
-<img src='http://g.gravizo.com/g?
+![](http://g.gravizo.com/g?
 @startuml;
 
 actor User;
@@ -25,5 +25,5 @@ A --> User: Done;
 deactivate A;
 
 @enduml
-'>
+)
      

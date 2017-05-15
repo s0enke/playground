@@ -1,8 +1,8 @@
-![Alt text](https://g.gravizo.com/source/custom_graph1?https%3A%2F%2Fraw.githubusercontent.com%2Fs0enke%2Fplayground%2Fmaster%2FREADME.md)
+![Alt text](https://g.gravizo.com/source/custom_mark?https%3A%2F%2Fraw.githubusercontent.com%2Fs0enke%2Fplayground%2Fmaster%2FREADME.md)
 
 <details> 
 <summary></summary>
-custom_graph1
+custom_mark
   digraph G {
     aize ="4,4";
     main [shape=box];
@@ -18,5 +18,5 @@ custom_graph1
     node [shape=box,style=filled,color=".7 .3 1.0"];
     execute -> compare;
   }
-custom_graph1
+custom_mark
 </details>

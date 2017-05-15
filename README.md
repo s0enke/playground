@@ -1,4 +1,4 @@
-![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2Fs0enke%2Fplayground%2Fmaster%2FREADME.md)
+![Alt text](https://g.gravizo.com/source/s0enke?https%3A%2F%2Fraw.githubusercontent.com%2Fs0enke%2Fplayground%2Fmaster%2FREADME.md)
 
 <details> 
 <summary></summary>
@@ -18,5 +18,5 @@ custom_mark10
     node [shape=box,style=filled,color=".7 .3 1.0"];
     execute -> compare;
   }
-custom_mark10
+s0enke
 </details>

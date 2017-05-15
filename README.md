@@ -2,7 +2,7 @@
 
 <details> 
 <summary></summary>
-custom_mark10
+s0enke
   digraph G {
     aize ="4,4";
     main [shape=box];
